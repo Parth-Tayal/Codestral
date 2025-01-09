@@ -15,6 +15,8 @@ The architecture involves multiple components working together to provide accura
 
 ## System Architecture and Flow
 
+![image_alt](https://github.com/Parth-Tayal/Codestral/blob/main/diagram.svg)
+
 * Frontend: The user interface where prompts are entered and responses are displayed.
 
 * Proxy Server: Handles CORS issues, forwards requests, and optionally manages logging and security.
