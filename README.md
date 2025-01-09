@@ -35,6 +35,8 @@ Feel free to reach out! 😊
 
 ## Showcase Overview
 
+https://github.com/user-attachments/assets/44c4aac3-8695-456d-9510-43b008dfb797
+
 In the above demo, I demonstrated the following capabilities:
 
 * Code Generation: Providing a solution for a given question.
