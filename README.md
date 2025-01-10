@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/44c4aac3-8695-456d-9510-43b008dfb797
 In the above demo, I demonstrated the following capabilities:
 
 * Code Generation: Providing a solution for a given question.
-* Test Case Generation: Automatically creating test cases for the generated code.
+* Test Case Generation: Automatically creating test cases for any code.
 * Code Review: Offering insights and improvements for the generated code.
 
 The questions span across different domains, demonstrating the system's versatility, speed, and efficiency in producing accurate results.
