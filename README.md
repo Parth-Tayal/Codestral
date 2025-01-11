@@ -11,11 +11,8 @@ The architecture involves multiple components working together to provide accura
 * Context-aware processing for multi-turn interactions.
 * High-performance inference using NVIDIA Triton Inference Server.
 
-<video width="640" height="360" controls>
-  <source src="https://assets.leetcode.com/static_assets/others/premium_company_tags.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
+![Demo](https://assets.leetcode.com/static_assets/others/premium_company_tags.mp4)
 
 ## System Architecture and Flow
 
